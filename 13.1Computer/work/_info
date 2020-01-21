@@ -1,0 +1,373 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mc_gr/Desktop/367/HW12.2
+Ealu
+Z0 w1524687572
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/mc_gr/Desktop/367/13.1Computer
+Z5 8C:/Users/mc_gr/Desktop/367/13.1Computer/alu.vhd
+Z6 FC:/Users/mc_gr/Desktop/367/13.1Computer/alu.vhd
+l0
+L5
+VonU[[lImk;S4C_Rkcm52k3
+!s100 IYQo_QJAHmFWhO_cO_GTS0
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1524689006
+!i10b 1
+Z9 !s108 1524689006.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/13.1Computer/alu.vhd|
+Z11 !s107 C:/Users/mc_gr/Desktop/367/13.1Computer/alu.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aalu_arch
+R1
+R2
+R3
+DEx4 work 3 alu 0 22 onU[[lImk;S4C_Rkcm52k3
+l17
+L15
+V@Q8<=@4YVP2WMH<I4XX4h3
+!s100 59>]^La20b=Jf?[oJ[MW?3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecomputer
+Z14 w1523505954
+R2
+R3
+R4
+Z15 8C:\Users\mc_gr\Desktop\367\13.1Computer\computer.vhd
+Z16 FC:\Users\mc_gr\Desktop\367\13.1Computer\computer.vhd
+l0
+L4
+Vf:]:;hM9Y_C5cYN<H>PnT3
+!s100 Xb?jN:9mbL9[k;52C[`:E2
+R7
+32
+Z17 !s110 1524689005
+!i10b 1
+Z18 !s108 1524689005.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\mc_gr\Desktop\367\13.1Computer\computer.vhd|
+Z20 !s107 C:\Users\mc_gr\Desktop\367\13.1Computer\computer.vhd|
+!i113 1
+R12
+R13
+Acomputer_arch
+R2
+R3
+DEx4 work 8 computer 0 22 f:]:;hM9Y_C5cYN<H>PnT3
+l101
+L41
+VBDdD9CO]C[4EE[[Jz^?fT0
+!s100 [A=RCFnoT^ZCF0McgoaIW0
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Ecomputer_tb
+Z21 w1523425675
+R2
+R3
+R4
+Z22 8C:/Users/mc_gr/Desktop/367/13.1Computer/computer_TB.vhd
+Z23 FC:/Users/mc_gr/Desktop/367/13.1Computer/computer_TB.vhd
+l0
+L18
+V=PHkE^UJznE2Gndheajic0
+!s100 5JWm2o>BLD@M3B8LP1A^k2
+R7
+32
+R17
+!i10b 1
+R18
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/13.1Computer/computer_TB.vhd|
+Z25 !s107 C:/Users/mc_gr/Desktop/367/13.1Computer/computer_TB.vhd|
+!i113 1
+R12
+R13
+Acomputer_tb_arch
+R2
+R3
+DEx4 work 11 computer_tb 0 22 =PHkE^UJznE2Gndheajic0
+l101
+L21
+VZHJUK?LnOCGTEFS5k5Sm<0
+!s100 hY=E[83gZ;z4nVVdYjhAJ2
+R7
+32
+R17
+!i10b 1
+R18
+R24
+R25
+!i113 1
+R12
+R13
+Econtrol_unit
+Z26 w1524718849
+R1
+R2
+R3
+R4
+Z27 8C:/Users/mc_gr/Desktop/367/13.1Computer/control_unit.vhd
+Z28 FC:/Users/mc_gr/Desktop/367/13.1Computer/control_unit.vhd
+l0
+L7
+V7i7i:AmS=ZY7ZLogFJ9NC1
+!s100 >iij8g12zj?jcA>0bl7_m0
+R7
+32
+Z29 !s110 1524718853
+!i10b 1
+Z30 !s108 1524718853.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/13.1Computer/control_unit.vhd|
+Z32 !s107 C:/Users/mc_gr/Desktop/367/13.1Computer/control_unit.vhd|
+!i113 1
+R12
+R13
+Acontrol_unit_arch
+R1
+R2
+R3
+DEx4 work 12 control_unit 0 22 7i7i:AmS=ZY7ZLogFJ9NC1
+l68
+L27
+V<57_2mik^mWVC[VXIeWa_1
+!s100 [>SOVe>81ghe1@H<[THfk0
+R7
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R12
+R13
+Ecpu
+Z33 w1524608636
+R2
+R3
+R4
+Z34 8C:/Users/mc_gr/Desktop/367/13.1Computer/cpu.vhd
+Z35 FC:/Users/mc_gr/Desktop/367/13.1Computer/cpu.vhd
+l0
+L5
+V9I3FUFAmfVg_0`mSW9CX>0
+!s100 FA7n^RiH3mPgjRRINo0Ej1
+R7
+32
+R17
+!i10b 1
+R18
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/13.1Computer/cpu.vhd|
+Z37 !s107 C:/Users/mc_gr/Desktop/367/13.1Computer/cpu.vhd|
+!i113 1
+R12
+R13
+Acpu_arch
+R2
+R3
+DEx4 work 3 cpu 0 22 9I3FUFAmfVg_0`mSW9CX>0
+l70
+L14
+VjK_BKiPhMIl4RoX`bX9CG1
+!s100 Deo4iFo8a8OgaNKEbdmo61
+R7
+32
+R17
+!i10b 1
+R18
+R36
+R37
+!i113 1
+R12
+R13
+Edata_path
+Z38 w1524547956
+R1
+R2
+R3
+R4
+Z39 8C:/Users/mc_gr/Desktop/367/13.1Computer/data_path.vhd
+Z40 FC:/Users/mc_gr/Desktop/367/13.1Computer/data_path.vhd
+l0
+L5
+Vah6olSb;Nfdl^>77^[giZ3
+!s100 =5me=[JWiffH4[zdScFj]3
+R7
+32
+R8
+!i10b 1
+R9
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/13.1Computer/data_path.vhd|
+Z42 !s107 C:/Users/mc_gr/Desktop/367/13.1Computer/data_path.vhd|
+!i113 1
+R12
+R13
+Adata_path_arch
+R1
+R2
+R3
+DEx4 work 9 data_path 0 22 ah6olSb;Nfdl^>77^[giZ3
+l48
+L27
+Vzac<V]8WT]gQ6o`7LcnAn1
+!s100 iXb1:hzNSoicL;m_<XDYT3
+R7
+32
+R8
+!i10b 1
+R9
+R41
+R42
+!i113 1
+R12
+R13
+Ememory
+Z43 w1524547644
+R1
+R2
+R3
+R4
+Z44 8C:/Users/mc_gr/Desktop/367/13.1Computer/memory.vhd
+Z45 FC:/Users/mc_gr/Desktop/367/13.1Computer/memory.vhd
+l0
+L5
+V8fIRlI5[AX7cCUF:ERGe@3
+!s100 T>FmmGQWmHaQ3e1UDil@G1
+R7
+32
+R8
+!i10b 1
+R9
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/13.1Computer/memory.vhd|
+Z47 !s107 C:/Users/mc_gr/Desktop/367/13.1Computer/memory.vhd|
+!i113 1
+R12
+R13
+Amemory_arch
+R1
+R2
+R3
+DEx4 work 6 memory 0 22 8fIRlI5[AX7cCUF:ERGe@3
+l65
+L47
+VEV_Dd0VoMJOmijk9:;`o>1
+!s100 9aHAdDl3iEJGdEo8h_ROR1
+R7
+32
+R8
+!i10b 1
+R9
+R46
+R47
+!i113 1
+R12
+R13
+Erom_128x8_sync
+Z48 w1524720638
+R1
+R2
+R3
+R4
+Z49 8C:/Users/mc_gr/Desktop/367/13.1Computer/rom_128x8_sync.vhd
+Z50 FC:/Users/mc_gr/Desktop/367/13.1Computer/rom_128x8_sync.vhd
+l0
+L5
+VlK9RDNGFlH>feLP8df4=_3
+!s100 _HUn4<7kHMXkFJ_mJ<PDR0
+R7
+32
+Z51 !s110 1524720677
+!i10b 1
+Z52 !s108 1524720677.000000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/13.1Computer/rom_128x8_sync.vhd|
+Z54 !s107 C:/Users/mc_gr/Desktop/367/13.1Computer/rom_128x8_sync.vhd|
+!i113 1
+R12
+R13
+Arom_128x8_sync_arch
+R1
+R2
+R3
+Z55 DEx4 work 14 rom_128x8_sync 0 22 lK9RDNGFlH>feLP8df4=_3
+l62
+L13
+VWA;O6Log6WB_EM3=39<_j1
+!s100 BS5@H6El`h5Uz@jTXTB5]2
+R7
+32
+R51
+!i10b 1
+R52
+R53
+R54
+!i113 1
+R12
+R13
+Erw_96x8_sync
+Z56 w1524451996
+R1
+R2
+R3
+R4
+Z57 8C:/Users/mc_gr/Desktop/367/13.1Computer/rw_96x8_sync.vhd
+Z58 FC:/Users/mc_gr/Desktop/367/13.1Computer/rw_96x8_sync.vhd
+l0
+L5
+VRFlnEl1KZD[b<;?co4EJD2
+!s100 N50koB@kZEXnCAa[GD5Le3
+R7
+32
+Z59 !s110 1524689007
+!i10b 1
+Z60 !s108 1524689007.000000
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/13.1Computer/rw_96x8_sync.vhd|
+Z62 !s107 C:/Users/mc_gr/Desktop/367/13.1Computer/rw_96x8_sync.vhd|
+!i113 1
+R12
+R13
+Arw_96x8_sync_arch
+R1
+R2
+R3
+DEx4 work 12 rw_96x8_sync 0 22 RFlnEl1KZD[b<;?co4EJD2
+l25
+L15
+V0a7b2ViGPF7`51LinP:HQ1
+!s100 T`j>CgfnlhDYz=EElL8<W3
+R7
+32
+R59
+!i10b 1
+R60
+R61
+R62
+!i113 1
+R12
+R13

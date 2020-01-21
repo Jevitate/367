@@ -1,0 +1,40 @@
+Quartus Prime Archive log --	C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/Lab_09p3_counter_n_clockdiv_2ton_tmp_archive.qarlog
+
+Archive:	C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/Lab_09p3_counter_n_clockdiv_2ton_tmp_archive.qar
+Date:		Wed Mar 07 17:57:34 2018
+Quartus Prime		17.1.1 Internal Build 593 12/11/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/Lab_09p3_counter_n_clockdiv_2ton.qpf
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/assignment_defaults.qdf
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/c5_pin_model_dump.txt
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/char_decoder.vhd
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/clock_div_2ton.vhd
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/dflipflop.vhd
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.asm.rpt
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.done
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.fit.rpt
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.fit.smsg
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.fit.summary
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.flow.rpt
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.jdi
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.map.rpt
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.map.summary
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.pin
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.sld
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.sof
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.sta.rpt
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.sta.summary
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/top.qsf
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/top.restore.rpt
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/top.vhd
+	======= Total: 23 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Mar 07 17:57:37 2018
+Source archive file:	C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/Lab_09p3_counter_n_clockdiv_2ton_tmp_archive.qar
+Archive was extracted into	C:/Users/mc_gr/Desktop/367/Lab_09p4_prec_clockdiv_n_bcd_counter/
+		 - successfully.

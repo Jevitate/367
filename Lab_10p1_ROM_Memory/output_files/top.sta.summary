@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'Clock_50'
+Slack : -6.763
+TNS   : -147.641
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_prec:cd|Clock_Out_buffer'
+Slack : -1.610
+TNS   : -17.214
+
+Type  : Slow 1100mV 85C Model Hold 'Clock_50'
+Slack : 0.437
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_prec:cd|Clock_Out_buffer'
+Slack : 0.742
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Clock_50'
+Slack : -0.538
+TNS   : -20.885
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_prec:cd|Clock_Out_buffer'
+Slack : -0.538
+TNS   : -9.752
+
+Type  : Slow 1100mV 0C Model Setup 'Clock_50'
+Slack : -7.123
+TNS   : -152.300
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_prec:cd|Clock_Out_buffer'
+Slack : -1.677
+TNS   : -17.480
+
+Type  : Slow 1100mV 0C Model Hold 'Clock_50'
+Slack : 0.448
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_prec:cd|Clock_Out_buffer'
+Slack : 0.763
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Clock_50'
+Slack : -0.538
+TNS   : -21.297
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_prec:cd|Clock_Out_buffer'
+Slack : -0.538
+TNS   : -9.631
+
+Type  : Fast 1100mV 85C Model Setup 'Clock_50'
+Slack : -3.425
+TNS   : -57.551
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_prec:cd|Clock_Out_buffer'
+Slack : -0.638
+TNS   : -5.479
+
+Type  : Fast 1100mV 85C Model Hold 'Clock_50'
+Slack : 0.200
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_prec:cd|Clock_Out_buffer'
+Slack : 0.262
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Clock_50'
+Slack : -0.371
+TNS   : -2.815
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_prec:cd|Clock_Out_buffer'
+Slack : 0.091
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'Clock_50'
+Slack : -3.187
+TNS   : -52.873
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_prec:cd|Clock_Out_buffer'
+Slack : -0.513
+TNS   : -4.499
+
+Type  : Fast 1100mV 0C Model Hold 'Clock_50'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_prec:cd|Clock_Out_buffer'
+Slack : 0.244
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Clock_50'
+Slack : -0.365
+TNS   : -2.839
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_prec:cd|Clock_Out_buffer'
+Slack : 0.110
+TNS   : 0.000
+
+------------------------------------------------------------

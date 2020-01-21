@@ -1,0 +1,13 @@
+{ "Info" "0" "" "qar.tcl version #1" {  } {  } 0 0 "qar.tcl version #1" 0 0 "0" 0 0 1519865343351 ""}
+{ "Info" "0" "" "Including '-use_file_set basic' by default" {  } {  } 0 0 "Including '-use_file_set basic' by default" 0 0 "0" 0 0 1519865344475 ""}
+{ "Info" "0" "" "All project revisions will be stored in common archive Lab_09p2_walking1_fsm_tmp_archive.qar" {  } {  } 0 0 "All project revisions will be stored in common archive Lab_09p2_walking1_fsm_tmp_archive.qar" 0 0 "0" 0 0 1519865344476 ""}
+{ "Info" "0" "" "Initializing files for 'top' revision" {  } {  } 0 0 "Initializing files for 'top' revision" 0 0 "0" 0 0 1519865344625 ""}
+{ "Info" "0" "" "File Set 'Source control' contains:" { { "Info" "0" "" "Project source and settings files" {  } {  } 0 0 "Project source and settings files" 0 0 "0" 0 0 1519865344634 ""} { "Info" "0" "" "Automatically detected source files" {  } {  } 0 0 "Automatically detected source files" 0 0 "0" 0 0 1519865344634 ""}  } {  } 0 0 "File Set 'Source control' contains:" 0 0 "0" 0 0 1519865344634 ""}
+{ "Warning" "0" "" "Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver" {  } {  } 0 0 "Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver" 0 0 "0" 0 0 1519865344782 ""}
+{ "Info" "0" "" "Archive will store files relative to the closest common parent directory" {  } {  } 0 0 "Archive will store files relative to the closest common parent directory" 0 0 "0" 0 0 1519865344987 ""}
+{ "Info" "IPRJ_ARC_TCL_TCL_USING_COMMON_DIR" "C:/Users/mc_gr/Desktop/367/9.2_lab/ " "Using common directory C:/Users/mc_gr/Desktop/367/9.2_lab/" {  } {  } 0 13213 "Using common directory %1!s!" 0 0 "Design Software" 0 -1 1519865345057 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1519865345132 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1519865345132 ""}
+{ "Info" "0" "" "Generated archive 'Lab_09p2_walking1_fsm_tmp_archive.qar'" {  } {  } 0 0 "Generated archive 'Lab_09p2_walking1_fsm_tmp_archive.qar'" 0 0 "0" 0 0 1519865345132 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1519865345132 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1519865345132 ""}

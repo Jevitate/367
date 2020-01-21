@@ -1,0 +1,13 @@
+{ "Info" "0" "" "qar.tcl version #1" {  } {  } 0 0 "qar.tcl version #1" 0 0 "0" 0 0 1523427702064 ""}
+{ "Info" "0" "" "Including '-use_file_set basic' by default" {  } {  } 0 0 "Including '-use_file_set basic' by default" 0 0 "0" 0 0 1523427702741 ""}
+{ "Info" "0" "" "All project revisions will be stored in common archive top_tmp_archive.qar" {  } {  } 0 0 "All project revisions will be stored in common archive top_tmp_archive.qar" 0 0 "0" 0 0 1523427702741 ""}
+{ "Info" "0" "" "Initializing files for 'top' revision" {  } {  } 0 0 "Initializing files for 'top' revision" 0 0 "0" 0 0 1523427702823 ""}
+{ "Info" "0" "" "File Set 'Source control' contains:" { { "Info" "0" "" "Project source and settings files" {  } {  } 0 0 "Project source and settings files" 0 0 "0" 0 0 1523427702830 ""} { "Info" "0" "" "Automatically detected source files" {  } {  } 0 0 "Automatically detected source files" 0 0 "0" 0 0 1523427702830 ""}  } {  } 0 0 "File Set 'Source control' contains:" 0 0 "0" 0 0 1523427702830 ""}
+{ "Warning" "0" "" "Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver" {  } {  } 0 0 "Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver" 0 0 "0" 0 0 1523427703060 ""}
+{ "Info" "0" "" "Archive will store files relative to the closest common parent directory" {  } {  } 0 0 "Archive will store files relative to the closest common parent directory" 0 0 "0" 0 0 1523427703175 ""}
+{ "Info" "IPRJ_ARC_TCL_TCL_USING_COMMON_DIR" "C:/Users/mc_gr/Desktop/367/Lab_12p1_Unsigned_binary_adder/ " "Using common directory C:/Users/mc_gr/Desktop/367/Lab_12p1_Unsigned_binary_adder/" {  } {  } 0 13213 "Using common directory %1!s!" 0 0 "Design Software" 0 -1 1523427703217 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1523427703248 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1523427703248 ""}
+{ "Info" "0" "" "Generated archive 'top_tmp_archive.qar'" {  } {  } 0 0 "Generated archive 'top_tmp_archive.qar'" 0 0 "0" 0 0 1523427703248 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1523427703248 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1523427703248 ""}

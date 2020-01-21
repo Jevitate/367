@@ -1,0 +1,26 @@
+
+State Machine - |top|computer:COMP|cpu:CPU_PROC|control_unit:CU|current_state
+Name current_state.S_BRA_6 current_state.S_BRA_5 current_state.S_BRA_4 current_state.S_ADD_AB_4 current_state.S_LDB_IMM_6 current_state.S_LDB_IMM_5 current_state.S_LDB_IMM_4 current_state.S_STA_DIR_7 current_state.S_STA_DIR_6 current_state.S_STA_DIR_5 current_state.S_STA_DIR_4 current_state.S_LDA_DIR_8 current_state.S_LDA_DIR_7 current_state.S_LDA_DIR_6 current_state.S_LDA_DIR_5 current_state.S_LDA_DIR_4 current_state.S_LDA_IMM_6 current_state.S_LDA_IMM_5 current_state.S_LDA_IMM_4 current_state.S_DECODE_3 current_state.S_FETCH_2 current_state.S_FETCH_1 current_state.S_FETCH_0 
+current_state.S_FETCH_0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+current_state.S_FETCH_1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+current_state.S_FETCH_2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+current_state.S_DECODE_3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+current_state.S_LDA_IMM_4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+current_state.S_LDA_IMM_5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+current_state.S_LDA_IMM_6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+current_state.S_LDA_DIR_4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+current_state.S_LDA_DIR_5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+current_state.S_LDA_DIR_6 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+current_state.S_LDA_DIR_7 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+current_state.S_LDA_DIR_8 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_STA_DIR_4 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_STA_DIR_5 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_STA_DIR_6 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_STA_DIR_7 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_LDB_IMM_4 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_LDB_IMM_5 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_LDB_IMM_6 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_ADD_AB_4 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_BRA_4 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_BRA_5 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_BRA_6 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 

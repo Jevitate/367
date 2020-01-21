@@ -1,0 +1,22 @@
+Quartus Prime Archive log --	C:/Users/mc_gr/Desktop/367/Lab_12p1_Unsigned_binary_adder/top_tmp_archive.qarlog
+
+Archive:	C:/Users/mc_gr/Desktop/367/Lab_12p1_Unsigned_binary_adder/top_tmp_archive.qar
+Date:		Wed Apr 11 00:21:43 2018
+Quartus Prime		17.1.1 Internal Build 593 12/11/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/mc_gr/Desktop/367/Lab_12p1_Unsigned_binary_adder/char_decoder.vhd
+C:/Users/mc_gr/Desktop/367/Lab_12p1_Unsigned_binary_adder/top.qpf
+C:/Users/mc_gr/Desktop/367/Lab_12p1_Unsigned_binary_adder/top.qsf
+C:/Users/mc_gr/Desktop/367/Lab_12p1_Unsigned_binary_adder/top.vhd
+c:/intelfpga_lite/17.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 5 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Apr 11 00:21:44 2018
+Source archive file:	C:/Users/mc_gr/Desktop/367/Lab_12p1_Unsigned_binary_adder/top_tmp_archive.qar
+Archive was extracted into	C:/Users/mc_gr/Desktop/367/Lab_12p2_Signed_Binary_Adder/
+		 - successfully.

@@ -1,0 +1,269 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/17.1
+Eadd_n_sub_8bit
+Z0 w1522902075
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/mc_gr/Desktop/367/HW12.2
+Z5 8C:/Users/mc_gr/Desktop/367/HW12.2/add_n_sub_8bit.vhd
+Z6 FC:/Users/mc_gr/Desktop/367/HW12.2/add_n_sub_8bit.vhd
+l0
+L5
+VKXjJl?2;2UI]leAYb76LV0
+!s100 ?FLE7mCSbi;`RPR[NIH6k1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1522902342
+!i10b 1
+Z9 !s108 1522902342.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/HW12.2/add_n_sub_8bit.vhd|
+Z11 !s107 C:/Users/mc_gr/Desktop/367/HW12.2/add_n_sub_8bit.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aadd_n_sub_8bit_arch
+R1
+R2
+R3
+Z14 DEx4 work 14 add_n_sub_8bit 0 22 KXjJl?2;2UI]leAYb76LV0
+l31
+L13
+VQ5^kUF<B<kj5n;j9@H]S?1
+!s100 ^aR`7LmD2J5`G1Ne5DmCz2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Aadd_n_sub_8bit_tb_arch
+R1
+R2
+R3
+R14
+32
+!s110 1522902077
+!i10b 1
+Z15 8C:/Users/mc_gr/Desktop/367/HW12.2/add_n_sub_8bit_TB.vhd
+Z16 FC:/Users/mc_gr/Desktop/367/HW12.2/add_n_sub_8bit_TB.vhd
+l21
+L8
+VcN^85z`c3KLZCa@DaG14L3
+!s100 dFTJIQMhKnmJMS@=DANg?1
+R7
+!s108 1522902077.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/HW12.2/add_n_sub_8bit_TB.vhd|
+Z18 !s107 C:/Users/mc_gr/Desktop/367/HW12.2/add_n_sub_8bit_TB.vhd|
+!i113 1
+R12
+R13
+Eadd_n_sub_8bit_tb
+Z19 w1522902336
+R1
+R2
+R3
+R4
+R15
+R16
+l0
+L5
+V=dAE2^C?_Gcm8;iLn1Mjk1
+!s100 bDPCkjG?Mjh619c^4LoUd2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Aadd_n_sub_8bit_tb_arch
+R1
+R2
+R3
+DEx4 work 17 add_n_sub_8bit_tb 0 22 =dAE2^C?_Gcm8;iLn1Mjk1
+l21
+L8
+VY`J_OA9=^;^MKfdheNIC91
+!s100 VS@PMc7zEQEE1nMbT@ZdN3
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Efull_adder
+Z20 w1522879945
+R2
+R3
+R4
+Z21 8C:/Users/mc_gr/Desktop/367/HW12.1/full_adder.vhd
+Z22 FC:/Users/mc_gr/Desktop/367/HW12.1/full_adder.vhd
+l0
+L4
+VF9M9L@Fc?OCLhVTf8d3iT1
+!s100 iYDLX<O7>Q=j6nlKicdgc0
+R7
+32
+Z23 !s110 1522902343
+!i10b 1
+Z24 !s108 1522902343.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/HW12.1/full_adder.vhd|
+Z26 !s107 C:/Users/mc_gr/Desktop/367/HW12.1/full_adder.vhd|
+!i113 1
+R12
+R13
+Afull_adder_arch
+R2
+R3
+DEx4 work 10 full_adder 0 22 F9M9L@Fc?OCLhVTf8d3iT1
+l18
+L9
+V>NX8fT<j[:b5J9zi2V1[40
+!s100 ieimn:GK0JUQGj0ILQ8HG0
+R7
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R12
+R13
+Ehalf_adder
+Z27 w1522880001
+R2
+R3
+R4
+Z28 8C:/Users/mc_gr/Desktop/367/HW12.1/half_adder.vhd
+Z29 FC:/Users/mc_gr/Desktop/367/HW12.1/half_adder.vhd
+l0
+L4
+V1FDoUfb`08Bka6L^KkW[;3
+!s100 3ZeT>e0AF@PRC=gR:@<_62
+R7
+32
+R23
+!i10b 1
+R9
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/HW12.1/half_adder.vhd|
+Z31 !s107 C:/Users/mc_gr/Desktop/367/HW12.1/half_adder.vhd|
+!i113 1
+R12
+R13
+Ahalf_adder_arch
+R2
+R3
+DEx4 work 10 half_adder 0 22 1FDoUfb`08Bka6L^KkW[;3
+l10
+L9
+V]3OdiQjHlUO`<8_>?]`443
+!s100 6emHz=;>>e3GA]FcN0UQ@3
+R7
+32
+R23
+!i10b 1
+R9
+R30
+R31
+!i113 1
+R12
+R13
+Exor_gate
+Z32 w1522902061
+R2
+R3
+R4
+Z33 8C:/Users/mc_gr/Desktop/367/HW12.2/xor_gate.vhd
+Z34 FC:/Users/mc_gr/Desktop/367/HW12.2/xor_gate.vhd
+l0
+L4
+V7?Ye44g^jTN>h5X5d]?600
+!s100 7E_b6?K761:TV<edNTa[m2
+R7
+32
+R23
+!i10b 1
+R24
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/HW12.2/xor_gate.vhd|
+Z36 !s107 C:/Users/mc_gr/Desktop/367/HW12.2/xor_gate.vhd|
+!i113 1
+R12
+R13
+Axor_gate_arch
+R2
+R3
+Z37 DEx4 work 8 xor_gate 0 22 7?Ye44g^jTN>h5X5d]?600
+l11
+L9
+Z38 V]HdJ>W==mP@D]iJ^^zaIT0
+Z39 !s100 G5ZXML4f?KW]?PXIBWDGo3
+R7
+32
+R23
+!i10b 1
+R24
+R35
+R36
+!i113 1
+R12
+R13
+Exorgate
+R2
+R3
+32
+Z40 !s110 1522896166
+!i10b 1
+Z41 w1522896161
+R4
+Z42 8C:\Users\mc_gr\Desktop\367\HW12.2\xor_gate.vhd
+Z43 FC:\Users\mc_gr\Desktop\367\HW12.2\xor_gate.vhd
+l0
+L4
+VRdXPDBN33m0z]`jW]4L6Z3
+!s100 05b[YgR3l7D0XfBiT4eiN3
+R7
+Z44 !s108 1522896166.000000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\mc_gr\Desktop\367\HW12.2\xor_gate.vhd|
+Z46 !s107 C:\Users\mc_gr\Desktop\367\HW12.2\xor_gate.vhd|
+!i113 1
+R12
+R13
+Axorgate_arch
+R2
+R3
+DEx4 work 7 xorgate 0 22 RdXPDBN33m0z]`jW]4L6Z3
+32
+R40
+!i10b 1
+l11
+L9
+VLlfd2BmoJ>D1m]j:D;e_j1
+!s100 =e<;_VKNmoQ;nP4?b75562
+R7
+R44
+R45
+R46
+!i113 1
+R12
+R13

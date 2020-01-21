@@ -1,0 +1,23 @@
+Quartus Prime Archive log --	C:/Users/mc_gr/Desktop/367/9.2_lab/Lab_09p2_walking1_fsm_tmp_archive.qarlog
+
+Archive:	C:/Users/mc_gr/Desktop/367/9.2_lab/Lab_09p2_walking1_fsm_tmp_archive.qar
+Date:		Wed Feb 28 17:49:05 2018
+Quartus Prime		17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/mc_gr/Desktop/367/9.2_lab/Lab_09p2_walking1_fsm.qpf
+C:/Users/mc_gr/Desktop/367/9.2_lab/assignment_defaults.qdf
+C:/Users/mc_gr/Desktop/367/9.2_lab/char_decoder.vhd
+C:/Users/mc_gr/Desktop/367/9.2_lab/dflipflop.vhd
+C:/Users/mc_gr/Desktop/367/9.2_lab/top.qsf
+C:/Users/mc_gr/Desktop/367/9.2_lab/top.vhd
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Feb 28 17:49:06 2018
+Source archive file:	C:/Users/mc_gr/Desktop/367/9.2_lab/Lab_09p2_walking1_fsm_tmp_archive.qar
+Archive was extracted into	C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/
+		 - successfully.

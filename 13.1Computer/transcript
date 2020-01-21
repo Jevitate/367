@@ -1,0 +1,224 @@
+vsim work.computer_tb
+# vsim work.computer_tb 
+# Start time: 14:10:18 on Apr 25,2018
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.computer_tb(computer_tb_arch)
+# Loading work.computer(computer_arch)
+# Loading work.cpu(cpu_arch)
+# Loading ieee.numeric_std(body)
+# Loading work.control_unit(control_unit_arch)
+# Loading work.data_path(data_path_arch)
+# Loading work.alu(alu_arch)
+# Loading work.memory(memory_arch)
+# Loading work.rom_128x8_sync(rom_128x8_sync_arch)
+# Loading work.rw_96x8_sync(rw_96x8_sync_arch)
+# ** Warning: (vsim-8683) Uninitialized out port /computer_tb/DUT1/CPU_PROC/DP/ALU_1/NZVC(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /computer_tb/DUT1/CPU_PROC/DP/ALU_1/ALU_Result(7 downto 0) has no driver.
+# This port will contribute value (UUUUUUUU) to the signal network.
+run
+# ** Note: 8-Bit Microcomputer System Test Bench Initiating...
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/RW
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/ROM
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/ROM
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/MEMORY_PROC
+# Compile of alu.vhd failed with 23 errors.
+# Compile of alu.vhd failed with 7 errors.
+# Compile of alu.vhd was successful.
+restart
+# Loading work.alu(alu_arch)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: 8-Bit Microcomputer System Test Bench Initiating...
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/RW
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/ROM
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/ROM
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+run
+# Compile of computer_TB.vhd was successful.
+# Compile of computer.vhd was successful.
+# Compile of cpu.vhd was successful.
+# Compile of control_unit.vhd was successful.
+# Compile of data_path.vhd was successful.
+# Compile of alu.vhd was successful.
+# Compile of memory.vhd was successful.
+# Compile of rom_128x8_sync.vhd was successful.
+# Compile of rw_96x8_sync.vhd was successful.
+# 9 compiles, 0 failed with no errors.
+restart
+# Loading work.computer_tb(computer_tb_arch)
+# Loading work.computer(computer_arch)
+# Loading work.cpu(cpu_arch)
+# Loading work.control_unit(control_unit_arch)
+# Loading work.data_path(data_path_arch)
+# Loading work.alu(alu_arch)
+# Loading work.memory(memory_arch)
+# Loading work.rom_128x8_sync(rom_128x8_sync_arch)
+# Loading work.rw_96x8_sync(rw_96x8_sync_arch)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: 8-Bit Microcomputer System Test Bench Initiating...
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/RW
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/ROM
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/ROM
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+run
+run
+run
+run
+run
+run
+# Compile of rom_128x8_sync.vhd was successful.
+restart
+# Loading work.rom_128x8_sync(rom_128x8_sync_arch)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: 8-Bit Microcomputer System Test Bench Initiating...
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/RW
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/ROM
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/ROM
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+run
+run
+# Compile of computer_TB.vhd was successful.
+# Compile of computer.vhd was successful.
+# Compile of cpu.vhd was successful.
+# Compile of control_unit.vhd was successful.
+# Compile of data_path.vhd was successful.
+# Compile of alu.vhd was successful.
+# Compile of memory.vhd was successful.
+# Compile of rom_128x8_sync.vhd failed with 5 errors.
+# Compile of rw_96x8_sync.vhd was successful.
+# 9 compiles, 1 failed with 5 errors.
+# Compile of rom_128x8_sync.vhd failed with 3 errors.
+# Compile of rom_128x8_sync.vhd failed with 3 errors.
+# Compile of rom_128x8_sync.vhd was successful.
+restart
+# Loading work.computer_tb(computer_tb_arch)
+# Loading work.computer(computer_arch)
+# Loading work.cpu(cpu_arch)
+# Loading work.control_unit(control_unit_arch)
+# Loading work.data_path(data_path_arch)
+# Loading work.alu(alu_arch)
+# Loading work.memory(memory_arch)
+# Loading work.rom_128x8_sync(rom_128x8_sync_arch)
+# Loading work.rw_96x8_sync(rw_96x8_sync_arch)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: 8-Bit Microcomputer System Test Bench Initiating...
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/RW
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/ROM
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC/ROM
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/MEMORY_PROC
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 2  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 550 ns  Iteration: 4  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 570 ns  Iteration: 3  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 650 ns  Iteration: 4  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+run
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 1370 ns  Iteration: 4  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 1390 ns  Iteration: 3  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 1470 ns  Iteration: 4  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+run
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2190 ns  Iteration: 4  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2210 ns  Iteration: 3  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 2290 ns  Iteration: 4  Instance: /computer_tb/DUT1/CPU_PROC/DP/ALU_1
+quit -sim
+# Compile of computer_TB.vhd was successful.
+# Compile of computer.vhd was successful.
+# Compile of cpu.vhd was successful.
+# Compile of control_unit.vhd was successful.
+# Compile of data_path.vhd was successful.
+# Compile of alu.vhd was successful.
+# Compile of memory.vhd was successful.
+# Compile of rom_128x8_sync.vhd was successful.
+# Compile of rw_96x8_sync.vhd was successful.
+# 9 compiles, 0 failed with no errors.

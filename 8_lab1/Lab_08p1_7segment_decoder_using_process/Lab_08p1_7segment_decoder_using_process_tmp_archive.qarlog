@@ -1,0 +1,21 @@
+Quartus Prime Archive log --	C:/Users/mc_gr/Desktop/367/8_lab1/Lab_08p1_7segment_decoder_using_process/Lab_08p1_7segment_decoder_using_process_tmp_archive.qarlog
+
+Archive:	C:/Users/mc_gr/Desktop/367/8_lab1/Lab_08p1_7segment_decoder_using_process/Lab_08p1_7segment_decoder_using_process_tmp_archive.qar
+Date:		Wed Jan 31 18:15:25 2018
+Quartus Prime		17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/mc_gr/Desktop/367/8_lab1/Lab_08p1_7segment_decoder_using_process/Lab_08p1_7segment_decoder_using_process.qpf
+C:/Users/mc_gr/Desktop/367/8_lab1/Lab_08p1_7segment_decoder_using_process/Lab_08p1_7segment_decoder_using_process.qsf
+C:/Users/mc_gr/Desktop/367/8_lab1/Lab_08p1_7segment_decoder_using_process/top.vhd
+c:/intelfpga_lite/17.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 4 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Jan 31 18:15:27 2018
+Source archive file:	C:/Users/mc_gr/Desktop/367/8_lab1/Lab_08p1_7segment_decoder_using_process/Lab_08p1_7segment_decoder_using_process_tmp_archive.qar
+Archive was extracted into	C:/Users/mc_gr/Desktop/367/8_lab2/
+		 - successfully.

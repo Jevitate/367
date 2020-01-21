@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mc_gr/Desktop/367/9.3_homework
+Ecounter_16bit_updown
+Z0 w1519863168
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/mc_gr/Desktop/367/9.4_Homework
+Z5 8C:/Users/mc_gr/Desktop/367/9.4_Homework/Counter_16bit_UpDown.vhd
+Z6 FC:/Users/mc_gr/Desktop/367/9.4_Homework/Counter_16bit_UpDown.vhd
+l0
+L6
+V[j1^CzZI^L]FR562N6<@Q2
+!s100 z3a;UfE;j`eAR48LX_i5a0
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1519863171
+!i10b 1
+Z9 !s108 1519863171.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/9.4_Homework/Counter_16bit_UpDown.vhd|
+Z11 !s107 C:/Users/mc_gr/Desktop/367/9.4_Homework/Counter_16bit_UpDown.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Acounter_16bit_updown_arch
+R1
+R2
+R3
+Z14 DEx4 work 20 counter_16bit_updown 0 22 [j1^CzZI^L]FR562N6<@Q2
+l16
+L13
+VWGb9PHIMOeMWzUg2O<5VK0
+!s100 1?>7ZN1XYAg50;RbWLHSJ1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecounter_16bit_updown_tb
+Z15 w1519861304
+R1
+R2
+R3
+R4
+Z16 8C:/Users/mc_gr/Desktop/367/9.4_Homework/Counter_16bit_UpDown_TB.vhd
+Z17 FC:/Users/mc_gr/Desktop/367/9.4_Homework/Counter_16bit_UpDown_TB.vhd
+l0
+L5
+V`aezdLB>cdMOKzRWeVMEf0
+!s100 8nX^BUGS14om^U1hU539f1
+R7
+32
+Z18 !s110 1519861558
+!i10b 1
+Z19 !s108 1519861558.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/9.4_Homework/Counter_16bit_UpDown_TB.vhd|
+Z21 !s107 C:/Users/mc_gr/Desktop/367/9.4_Homework/Counter_16bit_UpDown_TB.vhd|
+!i113 1
+R12
+R13
+Acounter_16bit_updown_tb_arch
+R1
+R2
+R3
+DEx4 work 23 counter_16bit_updown_tb 0 22 `aezdLB>cdMOKzRWeVMEf0
+l20
+L8
+Vmc[C6WYA0DDob@H;nlQ5k3
+!s100 hPZ_ImYUYz^=K282la;NB2
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13

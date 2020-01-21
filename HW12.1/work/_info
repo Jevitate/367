@@ -1,0 +1,168 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mc_gr/Desktop/367/10_homework1
+Efull_adder
+Z0 w1522879945
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/mc_gr/Desktop/367/HW12.1
+Z4 8C:/Users/mc_gr/Desktop/367/HW12.1/full_adder.vhd
+Z5 FC:/Users/mc_gr/Desktop/367/HW12.1/full_adder.vhd
+l0
+L4
+VF9M9L@Fc?OCLhVTf8d3iT1
+!s100 iYDLX<O7>Q=j6nlKicdgc0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1522889722
+!i10b 1
+Z8 !s108 1522889722.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/HW12.1/full_adder.vhd|
+Z10 !s107 C:/Users/mc_gr/Desktop/367/HW12.1/full_adder.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Afull_adder_arch
+R1
+R2
+DEx4 work 10 full_adder 0 22 F9M9L@Fc?OCLhVTf8d3iT1
+l18
+L9
+V>NX8fT<j[:b5J9zi2V1[40
+!s100 ieimn:GK0JUQGj0ILQ8HG0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ehalf_adder
+Z13 w1522880001
+R1
+R2
+R3
+Z14 8C:/Users/mc_gr/Desktop/367/HW12.1/half_adder.vhd
+Z15 FC:/Users/mc_gr/Desktop/367/HW12.1/half_adder.vhd
+l0
+L4
+V1FDoUfb`08Bka6L^KkW[;3
+!s100 3ZeT>e0AF@PRC=gR:@<_62
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/HW12.1/half_adder.vhd|
+Z17 !s107 C:/Users/mc_gr/Desktop/367/HW12.1/half_adder.vhd|
+!i113 1
+R11
+R12
+Ahalf_adder_arch
+R1
+R2
+DEx4 work 10 half_adder 0 22 1FDoUfb`08Bka6L^KkW[;3
+l10
+L9
+V]3OdiQjHlUO`<8_>?]`443
+!s100 6emHz=;>>e3GA]FcN0UQ@3
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Erca_8bit
+Z18 w1522880685
+R1
+R2
+R3
+Z19 8C:/Users/mc_gr/Desktop/367/HW12.1/rca_8bit.vhd
+Z20 FC:/Users/mc_gr/Desktop/367/HW12.1/rca_8bit.vhd
+l0
+L4
+VFz@UA9<mInMQ4nD_;4XJ?1
+!s100 h7O0ShGD2<;<m9^ICkNU40
+R6
+32
+Z21 !s110 1522889723
+!i10b 1
+Z22 !s108 1522889723.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/HW12.1/rca_8bit.vhd|
+Z24 !s107 C:/Users/mc_gr/Desktop/367/HW12.1/rca_8bit.vhd|
+!i113 1
+R11
+R12
+Arca_8bit_arch
+R1
+R2
+DEx4 work 8 rca_8bit 0 22 Fz@UA9<mInMQ4nD_;4XJ?1
+l19
+L10
+V>n=7]8YB>j60BbHMB^1zX1
+!s100 Nb@X<9_5:^O[M21Y?7m531
+R6
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R11
+R12
+Erca_8bit_tb
+Z25 w1522889700
+Z26 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z27 8C:/Users/mc_gr/Desktop/367/HW12.1/rca_8bit_TB.vhd
+Z28 FC:/Users/mc_gr/Desktop/367/HW12.1/rca_8bit_TB.vhd
+l0
+L5
+V6ln1R5:15T[zG=FezPn[@2
+!s100 M0mB;h;zH6z[0Tz`T[GQ:0
+R6
+32
+R21
+!i10b 1
+R22
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/mc_gr/Desktop/367/HW12.1/rca_8bit_TB.vhd|
+Z30 !s107 C:/Users/mc_gr/Desktop/367/HW12.1/rca_8bit_TB.vhd|
+!i113 1
+R11
+R12
+Arca_8bit_tb_arch
+R26
+R1
+R2
+Z31 DEx4 work 11 rca_8bit_tb 0 22 6ln1R5:15T[zG=FezPn[@2
+l20
+L9
+Vd0Ob43iLb_o]MbhBlIXUl2
+!s100 234?>aBOj^=Me[P21UT[43
+R6
+32
+R21
+!i10b 1
+R22
+R29
+R30
+!i113 1
+R11
+R12

@@ -1,0 +1,34 @@
+Quartus Prime Archive log --	C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/__top.auto.qarlog
+
+Archive:	C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/__top.auto.qar
+Date:		Wed Mar 07 17:57:33 2018
+Quartus Prime		17.1.1 Internal Build 593 12/11/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/db/Lab_09p3_counter_n_clockdiv_2ton.qpf
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.asm.rpt
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.done
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.fit.rpt
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.fit.smsg
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.fit.summary
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.flow.rpt
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.jdi
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.map.rpt
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.map.summary
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.pin
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.sld
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.sof
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.sta.rpt
+C:/Users/mc_gr/Desktop/367/Lab_09p3_counter_n_clockdiv_2ton/output_files/top.sta.summary
+assignment_defaults.qdf
+c5_pin_model_dump.txt
+char_decoder.vhd
+clock_div_2ton.vhd
+dflipflop.vhd
+top.qsf
+top.restore.rpt
+top.vhd
+	======= Total: 23 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
