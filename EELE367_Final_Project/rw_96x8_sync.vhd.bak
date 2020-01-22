@@ -1,0 +1,11 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.numeric_std.all;
+
+entity rw_96x8_sync is
+end entity;
+
+architecture rw_96x8_sync_arch of rw_96x8_sync is
+
+  begin
+end architecture;

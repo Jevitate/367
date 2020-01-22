@@ -1,0 +1,10 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity alu is
+end entity;
+
+architecture alu_arch of alu is
+
+  begin
+end architecture;

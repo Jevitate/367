@@ -57,8 +57,7 @@ architecture cpu_arch of cpu is
 	CCR_Result : out std_logic_vector(3 downto 0);
 	CCR_Load : in std_logic;
 	Bus2_Sel : in std_logic_vector(1 downto 0);
-	Bus1_Sel : in std_logic_vector(1 downto 0);
-	address : out std_logic_vector (7 downto 0));
+	Bus1_Sel : in std_logic_vector(1 downto 0));
   end component;
 
   begin
@@ -94,7 +93,6 @@ architecture cpu_arch of cpu is
 			     CCR_Result => CCR_Result,
 			     CCR_Load => CCR_Load,
 			     Bus2_Sel => Bus2_Sel,
-			     Bus1_Sel => Bus1_Sel,
-			     address => address);
+			     Bus1_Sel => Bus1_Sel);
 			      
 end architecture;
